@@ -1,0 +1,294 @@
+.pricing
+{
+width: 100%;
+}
+.pricing h1
+{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-style: normal;
+
+}
+.pricing p
+{
+    text-align: center;
+    color: gray;
+}
+.pricing-card-all
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+hr
+{
+    width: 100px;
+    border: 2px solid rgba(0, 0, 206, 0.311);
+
+}
+
+
+.pricing-card1
+{
+    background-color: white;
+    font-style: normal;
+    text-align: center;
+    width: 250px;
+    height: 355px;
+    border-radius: 10px 10px;
+    border-color:rgba(128, 128, 128, 0.322) ;
+    box-shadow: 2px 2px 7px rgba(128, 128, 128, 0.322);
+    position: relative;
+    left: 20px;
+
+}
+.pricing-card1 h2
+{
+text-align: center;
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-style: normal;
+
+}
+
+.pricing-card1 p
+{
+    width: 220px;
+    height: 60px;
+    position: relative;
+    left: 12px;
+    top: -35px;
+    text-align: start;
+
+}
+.pricing-card1 h5
+{
+
+color: gray;
+font-size: 18px;
+position: relative;
+top: -25px;
+text-align: center;
+}
+.pricing-card1 h4
+{
+position:relative;
+top: -35px;
+left: 45px;
+text-align: start;
+margin: 12px;
+}
+.pricing-card1 i
+{
+    position: relative;
+    right: 20px;
+    color: rgb(3, 190, 59);
+}
+.pricing-card1 button
+{
+width: 200px;
+height: 45px;
+background-color: black;
+color: white;
+border-radius: 7px 7px;
+position: relative;
+top: -15px;
+cursor: pointer;
+}
+
+    .pricing-card1:hover
+    {
+        transition: 0.5s;
+       box-shadow: 2px 2px 20px rgba(0, 81, 255, 0.461);
+    }
+
+
+
+.pricing-card2
+{
+    background-color: white;
+    font-style: normal;
+    text-align: center;
+    width: 270px;
+    height: 405px;
+    border-radius: 10px 10px;
+    border-color:rgba(128, 128, 128, 0.322) ;
+    box-shadow: 2px 2px 7px rgba(128, 128, 128, 0.322);
+    z-index: 1;
+
+}
+.pricing-card2 h2
+{
+
+text-align: center;
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-style: normal;
+position: relative;
+top: 10px;
+font-size: 18px;
+
+}
+.pricing-card2 h5
+{
+
+color: gray;
+font-size: 25px;
+position: relative;
+top: -25px;
+text-align: center;
+}
+.pricing-card2 p
+{
+    width: 220px;
+    height: 60px;
+    position: relative;
+    left: 12px;
+top: -40px;
+    text-align: start;
+
+}
+
+.pricing-card2 h4
+{
+position:relative;
+top: -40px;
+left: 45px;
+text-align: start;
+margin: 12px;
+}
+.pricing-card2 i
+{
+    position: relative;
+    right: 20px;
+    color: rgb(3, 190, 59);
+}
+.pricing-card2 button
+{
+width: 200px;
+height: 45px;
+background-color: black;
+color: white;
+border-radius: 7px 7px;
+position: relative;
+top: -20px;
+cursor: pointer;
+}
+.pricing-popular 
+{
+
+    width: 100%;
+    height: 45px;
+    background: rgba(0, 94, 255, 0.174);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px 10px 0px 0px;
+}
+.pricing-card2:hover
+{
+    transition: 0.5s;
+    box-shadow: 2px 2px 20px rgba(0, 81, 255, 0.461);
+}
+
+
+
+.pricing-card3
+{
+    background-color: white;
+    position: relative;
+    right: 20px;
+    font-style: normal;
+    text-align: center;
+    width: 250px;
+    height: 355px;
+   
+    border-radius: 10px 10px;
+    border-color:rgba(128, 128, 128, 0.322) ;
+    box-shadow: 2px 2px 7px rgba(128, 128, 128, 0.322);
+
+
+}
+.pricing-card3 h2
+{
+
+text-align: center;
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-style: normal;
+
+}
+
+.pricing-card3 p
+{
+    width: 220px;
+    height: 60px;
+    position: relative;
+    left: 12px;
+    top: -35px;
+    text-align: start;
+
+}
+.pricing-card3 h5
+{
+
+color: gray;
+font-size: 18px;
+position: relative;
+top: -25px;
+text-align: center;
+}
+.pricing-card3 h4
+{
+position:relative;
+top: -35px;
+left: 45px;
+text-align: start;
+margin: 12px;
+}
+.pricing-card3 i
+{
+    position: relative;
+    right: 20px;
+    color: rgb(3, 190, 59);
+}
+.pricing-card3 button
+{
+width: 200px;
+height: 45px;
+background-color: black;
+color: white;
+border-radius: 7px 7px;
+position: relative;
+top: -15px;
+cursor: pointer;
+}
+.pricing-card3:hover
+{
+    transition: 0.5s;
+    box-shadow: 2px 2px 20px rgba(0, 81, 255, 0.461);
+}
+@media (max-width:543px)
+{
+    .pricing-card1{
+        position: relative;
+        left: -0px;
+    }
+    .pricing-card3{
+        position: relative;
+        left: -0px;
+    }
+}
+
+
+
+
+
+
+
